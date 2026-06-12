@@ -1,12 +1,3 @@
-# GitHub Profile README — Draft
-
-> **How to use:** create a public repo named exactly `ALFRED-LUCIFER` (same as your username), add this content as its `README.md`, and it appears on your profile page. Also fill in the profile bio (suggestion below) and pin the four repos listed at the bottom.
->
-> **Suggested profile bio (160 chars max):**
-> `AI Engineering Manager · Dubai | Agentic SDLC, MCP, Claude Agent SDK | 20-eng team across Dubai & Austria | GH-300 · MS AI Transformation Leader`
-
----
-
 # Hi, I'm Alfred Paul 👋
 
 **AI Engineering Manager & Transformation Lead** in Dubai — 12+ years of enterprise software delivery, now leading a 20-engineer team across Dubai and Austria through governed agentic AI adoption.
